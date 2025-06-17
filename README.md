@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Duong
 ==================================================================================================================================
 
-Artificial Intelligence Engineer & Data Scientist
+AI Engineer
 -------------------------------------------------
 
 Hi there! I'm a passionate AI enthusiast with 3 years of programming experience. I initially set out on my journey to become a software engineer, but along the way, I discovered my true passion - Artificial Intelligence. The blend of mathematics, logic, and real-world problem-solving fascinated me, and I realized that my strengths aligned perfectly with this field. Over the years, I have gained expertise in Data Analytics, Machine Learning, Deep Learning, and Reinforcement Learning. Currently, my primary focus is on Generative AI (GenAI) and Agentic AI, where I am actively working on projects and expanding my knowledge. Beyond coding, I'm a huge fan of Manga and Anime - a source of inspiration and creativity that keeps me motivated.
@@ -24,7 +24,3 @@ Hi there! I'm a passionate AI enthusiast with 3 years of programming experience.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/minhct267" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/minh-duong-7b1292241" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/minhct267/ai-content-explorer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minhct267&repo=ai-content-explorer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
