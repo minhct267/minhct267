@@ -9,6 +9,7 @@ Specializing in Brain-Computer Interfaces (BCI) and AR/AI Smart Glasses.
 
 ### Tech Stack
 - **Languages:** C/C++, Python, C#, Java/Kotlin.
+- **Platform:** Unity, Matlab
 
 ### Exhibitions
 - **COMPUTEX 2026** (Taipei, Taiwan) - *Upcoming*
